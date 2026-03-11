@@ -1,36 +1,36 @@
 const commentsData = [
   {
-    name: "Akshay Saini",
+    name: "Md. Shamiul Haque",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
+    name: "Shahariar Fahim",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [
       {
-        name: "Akshay Saini",
+        name: "Niaz Khan",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [],
       },
       {
-        name: "Akshay Saini",
+        name: "Mahfuzul Monir",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [
           {
-            name: "Akshay Saini",
+            name: "Mubasshir Hussain",
             text: "Lorem ipsum dolor sit amet, consectetur adip",
             replies: [
               {
-                name: "Akshay Saini",
+                name: "Nobiul Islam",
                 text: "Lorem ipsum dolor sit amet, consectetur adip",
                 replies: [
                   {
-                    name: "Akshay Saini",
+                    name: "Ammar Ibn Mohammad",
                     text: "Lorem ipsum dolor sit amet, consectetur adip",
                     replies: [
                       {
-                        name: "Akshay Saini",
+                        name: "Mahir Ahmed",
                         text: "Lorem ipsum dolor sit amet, consectetur adip",
                         replies: [],
                       },

@@ -26,7 +26,7 @@ const Header = () => {
 
   const getSearchSuggestions = async () => {
     const data = await fetch(
-      "https://corsproxy.io/?" + YOUTUBE_SEARCH_API + searchQuery,
+      "https://proxy.corsfix.com/?" + YOUTUBE_SEARCH_API + searchQuery,
     );
     const json = await data.json();
     setSuggestions(json[1]);
